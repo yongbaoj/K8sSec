@@ -7,13 +7,9 @@
         "image": "/K8sSec1.jpg",
         "points": {
           "headwhy": "Why Kubernetes Deployment Security Matters?" ,
-          "why": "Kubernetes has been increasinly popular application hosting platform, but it's inheritently risky because of its open and shared nature. 
-          <br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. 
-          <br> Traditinal security controls like firewall doesn't work in Kubernetes ",
+          "why": "Kubernetes has been increasinly popular application hosting platform, but it's inheritently risky because of its open and shared nature. <br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. <br> Traditinal security controls like firewall doesn't work in Kubernetes ",
           "headwhen": "When To engage us?" ,
-          "when": "Ideally, we want to be engaged at the early stage before your product release as it can ensure your product deployment security.
-          <br><br> you can engage us if your cyber team raise any vulnerablitiy about your pod deployments.
-          <br><br> or you can engage us after any relevant security incident so we can make sure your pod deployement won't be the cause and immune from similar breach.",
+          "when": "Ideally, we want to be engaged at the early stage before your product release as it can ensure your product deployment security. <br><br> you can engage us if your cyber team raise any vulnerablitiy about your pod deployments. <br><br> or you can engage us after any relevant security incident so we can make sure your pod deployement won't be the cause and immune from similar breach.",
           "headwho": "Who should Secure Kubernetes Deployments?" ,
           "who": "You. Anyone who is concerned about the privacy, safety, and security of your Kubernetes container workloads.",
           "headhow": "What Methodologies and Tools to Use?" ,
@@ -27,14 +23,9 @@
         "image": "/K8sSec2.jpg",
         "points": {
             "headwhy": "Why Kubernetes Cluster Security Matters?" ,
-            "why": "Kubernetes has been increasinly popular application hosting platform, but it's inheritently risky because of its open and shared nature. 
-            <br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. 
-            <br> Kubernetes is often used as a shared platform as KaaS (Kubernetes as a service). 
-            <br> Traditinal security controls like firewall doesn't work in Kubernetes",
+            "why": "Kubernetes has been increasinly popular application hosting platform, but it's inheritently risky because of its open and shared nature. <br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. <br> Kubernetes is often used as a shared platform as KaaS (Kubernetes as a service).  <br> Traditinal security controls like firewall doesn't work in Kubernetes",
             "headwhen": "When To engage us?" ,
-            "when": "Ideally, we want to be engaged at the early stage before any product workloads deployment in your Kubernetes clsuter as it can ensure your product environment security.
-            <br><br> You can engage us if you find it's challenging to secure your cluster to your desire or your cyber team raises any vulnerablitiy about your Kubernetes.
-            <br><br> Or you can engage us after any relevant security incident so we can make sure your cluster is protected and immune from similar breaches.",
+            "when": "Ideally, we want to be engaged at the early stage before any product workloads deployment in your Kubernetes clsuter as it can ensure your product environment security. <br><br> You can engage us if you find it's challenging to secure your cluster to your desire or your cyber team raises any vulnerablitiy about your Kubernetes. <br><br> Or you can engage us after any relevant security incident so we can make sure your cluster is protected and immune from similar breaches.",
             "headwho": "Who should Secure Kubernetes Cluster?" ,
             "who": "You. Anyone who manage Kubernetes cluster or provides KaaS/CaaS (Kubernetes/Container as a service).",
             "headhow": "What Methodologies and Tools to Use?" ,
@@ -48,14 +39,9 @@
         "image": "/K8sSec3.jpg",
         "points": {
             "headwhy": "Why Container Image and Container Security Matters?" ,
-            "why": "Container images often consiste of multiple layers that dependes on tools/libarary beyond your controls.
-            <br> Your developement choices often indirectly decide its dependences that could inherit unmitigated CVEs. 
-            <br> Multi-layer dependense and constant technology and threat landscape evolvutoin often lead safe images to be vulnerable. 
-            <br> External dependences on images in public or untrusted image repositories",
+            "why": "Container images often consiste of multiple layers that dependes on tools/libarary beyond your controls. <br> Your developement choices often indirectly decide its dependences that could inherit unmitigated CVEs. <br> Multi-layer dependense and constant technology and threat landscape evolvutoin often lead safe images to be vulnerable. <br> External dependences on images in public or untrusted image repositories",
             "headwhen": "When To engage us?" ,
-            "when": "Ideally, we want to be engaged at the early stage of your software development as it can help you choose an optimal path from the begining.
-            <br><br> You can engage us whenever you struggle to address your container vulnerabilities.",
-            "headwho": "Who should Secure Container Images and Containers?" ,
+            "when": "Ideally, we want to be engaged at the early stage of your software development as it can help you choose an optimal path from the begining. <br><br> You can engage us whenever you struggle to address your container vulnerabilities.",            "headwho": "Who should Secure Container Images and Containers?" ,
             "who": "You. Anyone who develop container based workloads or provides CaaS (Container as a service).",
             "headhow": "What Methodologies and Tools to Use?" ,
             "how": "In ACloud, we're Docker certified specialists and have gone through the journey to help multiple customer address the exact same challenges so we have the secret tools to assist you."
