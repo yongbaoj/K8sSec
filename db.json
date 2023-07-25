@@ -5,7 +5,7 @@
         "title": "Securing Kubernetes Deployments",
         "details": "Our experts help you <ul><li>Deploy container workloads securely</li><li>Make sure only secured deployments are deployed</li> <li>Mitigate any deployment vulnerabilities</li>  <li>Monitor and enforce container deployment security continuously</li> </ul> Making sure your container workload secure by default",
         "image": "/K8sSec1.jpg",
-        "image-m": "/K8sSec1-m.jpg", 
+        "image_m": "/K8sSec1_m.jpg", 
         "points": {
           "headwhy": "Why Kubernetes Deployment Security Matters?" ,
           "why": "Kubernetes has been increasingly popular as an application hosting platform, but it's inherently risky because of its open and shared nature. <br><br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. <br><br> Traditional security controls like firewall don't work in Kubernetes ",
@@ -22,7 +22,7 @@
         "title": "Securing Kubernetes Clusters",
         "details": "Our experts help you <ul><li>Secure Kubernetes Access</li><li>Slice Kubernetes cluster and segregate those slices properly </li> <li>Secure Ingress and Egress access</li>  <li>Secure inter-pod communication</li> </ul> Making sure your Kubernetes cluster secure and robust",
         "image": "/K8sSec2.jpg",
-        "image-m": "/K8sSec2-m.jpg",         
+        "image_m": "/K8sSec2_m.jpg",         
         "points": {
             "headwhy": "Why Kubernetes Cluster Security Matters?" ,
             "why": "Kubernetes has been increasingly popular as an application hosting platform, but it's inherently risky because of its open and shared nature. <br><br> Kubernetes is based on contributions from multiple open source communities and there's no sole entity in charge of its security. <br><br> Kubernetes is often used as a shared platform as KaaS (Kubernetes as a service) or CaaS (Container as a service).  <br><br> Traditional security controls like firewall don't work in Kubernetes",
@@ -39,7 +39,7 @@
         "title": "Securing Container Images and Containers",
         "details": "Our experts help you <ul><li>Optimize Container Images</li><li>Enforce container image security </li> <li>Minimize container CVEs</li>  <li>Secure public images locally</li> </ul> Making sure your container workloads are secure",
         "image": "/K8sSec3.jpg",
-        "image-m": "/K8sSec3-m.jpg",         
+        "image_m": "/K8sSec3_m.jpg",         
         "points": {
             "headwhy": "Why Container Image and Container Security Matters?" ,
             "why": "Container images often consist of multiple layers that depend on tools/library beyond your controls. <br><br> Your development choices often indirectly decide its dependencies that could inherit unmitigated CVEs(Common Vulnerabilities and Exposures). <br><br> Multi-layer dependence and constant technology and threat landscape evolution often leads safe images to be vulnerable. <br> External dependence's on images in public or untrusted image repositories",
